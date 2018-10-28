@@ -1,1 +1,0 @@
-{"uuid":"af995091-fa40-4e08-bf65-5145b39f813e","name":"API_testing","start":1540743974083,"stop":1540743980718,"children":["f2eebebc-eaec-431c-b5cd-157bb6b3bd1c","5806601d-cb7f-42eb-a5fe-81c5e4305bd3"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1540743974199,"stop":1540743975324}]}
